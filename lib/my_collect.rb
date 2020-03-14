@@ -6,6 +6,7 @@ def my_collect(array)
   new_array << yield(el)
 
 end
+new_array
 end
   
 
